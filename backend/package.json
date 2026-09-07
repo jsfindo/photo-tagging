@@ -11,17 +11,17 @@
     "url": "git+https://github.com/jsfindo/photo-tagging.git"
   },
   "keywords": [],
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/jsfindo/photo-tagging/issues"
   },
   "homepage": "https://github.com/jsfindo/photo-tagging#readme",
   "dependencies": {
-    "@prisma/client": "^7.10.0",
     "cors": "^2.8.6",
     "express": "^5.2.1"
   },
   "devDependencies": {
-    "prisma": "^7.10.0"
+    "@prisma/client": "^6.19.3",
+    "prisma": "^6.19.3"
   }
 }
